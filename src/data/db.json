@@ -1,0 +1,36 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "usuario": "admin",
+      "senha": "admin"
+    },
+    {
+      "id": 2,
+      "usuario": "renan",
+      "senha": "1234"
+    },
+    {
+      "usuario": "alunofront",
+      "senha": "123456",
+      "id": 3
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome_produto": "Sapato Masculino Oxford",
+      "preco": 125
+    },
+    {
+      "nome_produto": "Sapato Feminino NovaYork",
+      "preco": "130.0",
+      "id": 2
+    },
+    {
+      "nome_produto": "Sapato Feminino Nova",
+      "preco": "135.0",
+      "id": 3
+    }
+  ]
+}
